@@ -1,4 +1,4 @@
-#pragma once
+﻿#pragma once
 #include "windows.h"
 #include "Types.h"
 
@@ -8,7 +8,7 @@ enum class ConsoleColor
     RED = FOREGROUND_RED,
     GREEN = FOREGROUND_GREEN,
     BLUE = FOREGROUND_BLUE,
-    YELLO = RED | GREEN,
+    YELLOW = RED | GREEN,
     WHITE = RED | GREEN | BLUE
 };
 
