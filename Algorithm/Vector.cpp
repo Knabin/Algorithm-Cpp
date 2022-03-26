@@ -86,7 +86,7 @@ private:
 	int _capacity = 0;
 };
 
-int main()
+int main_vector()
 {
 	Vector<int> v;
 
